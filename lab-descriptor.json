@@ -1,1 +1,146 @@
-
+{
+  "broadArea": {
+    "name": "Civil Engineering",
+    "link": "https://www.vlab.co.in/broad-area-civil-engineering"
+  },
+  "lab": "Structural Dynamics Lab",
+  "phase": 2,
+  "deployLab": true,
+  "collegeName": "IIITH",
+  "baseUrl": "sd-iiith.vlabs.ac.in",
+  "introduction": "Welcome to the Structural Dynamics Lab",
+  "experiments": [
+    {
+      "name": "Simple Harmonic Oscillator",
+      "short-name": "simple-harmonic-oscillator",
+      "repo": " https://github.com/virtual-labs/exp-simple-harmonic-oscillator-iiith |",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Free Vibration of S.D.O.F System ",
+      "short-name": "free-vibration-of-S.D.O.F-system ",
+      "repo": "https://github.com/virtual-labs/exp-free-vibration-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Forced Vibration of S.D.O.F System",
+      "short-name": "forced-vibration-of-S.D.O.F-system",
+      "repo": "https://github.com/virtual-labs/exp-forced-vibration-iiith ",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Impulse Response of S.D.O.F System",
+      "short-name": "impulse-response-of-S.D.O.F-system",
+      "repo": "https://github.com/virtual-labs/exp-impulse-response-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Concept of Response Spectrum ",
+      "short-name": "concept-of-response-spectrum ",
+      "repo": "https://github.com/virtual-labs/exp-response-spectrum-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Vibration of M.D.O.F System ",
+      "short-name": "vibration-of-M.D.O.F-system ",
+      "repo": "https://github.com/virtual-labs/exp-vibration-of-mdof-iiith",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Behaviour of Rigid Blocks",
+      "short-name": "behaviour-of-rigid-blocks",
+      "repo": "https://github.com/virtual-labs/exp-behaviour-rigid-blocks-iiith ",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Torsional Response of Building",
+      "short-name": "torsional-response-of-building",
+      "repo": "https://github.com/virtual-labs/exp-torsional-response-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+    {
+      "name": "Continuous Systems",
+      "short-name": "continuous-systems",
+      "repo": "https://github.com/virtual-labs/exp-continuous-systems-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    },
+	{
+      "name": "Vibration Control",
+      "short-name": "vibration-control",
+      "repo": "https://github.com/virtual-labs/exp-vibration-control-iiith",
+      "tag": "v1.0.1",
+      "deploy": true
+    }
+  ],
+  "targetAudience": {
+    "UG": ["Senior undergraduate students"],
+    "PG": ["Postgraduate students and Research scholars"]
+  },
+  "objective": "To learn and understand the basic concepts of Structural Dynamics.",
+  "courseAlignment": {
+    "description": "This virtual lab on Structural Dynamics is to be used as a supplement to a parallel course on the same topic. It is not designed to be a complete course/tutorial by itself where a student can learn Structural Dynamics just by going through the designed experiments.",
+    "universities": ["Universities with Civil Engineering"]
+  },
+  "version": "v0.1.7",
+  "production": true,
+  "current_item": {
+    "item": "feedback",
+    "target": "feedback.html",
+    "label": "Feedback"
+  },
+  "menu": [
+    {
+      "item": "aim",
+      "target": "index.html",
+      "source": "aim.md",
+      "label": "Aim"
+    },
+    {
+      "item": "theory",
+      "target": "theory.html",
+      "source": "theory.md",
+      "label": "Theory"
+    },
+    {
+      "item": "procedure",
+      "target": "procedure.html",
+      "source": "procedure.md",
+      "label": "Procedure"
+    },
+    {
+      "item": "simulation",
+      "target": "simulation.html",
+      "label": "Simulation"
+    },
+    {
+      "item": "observations",
+      "target": "observations.html",
+      "source": "observations.md",
+      "label": "Observations"
+    },
+    {
+      "item": "assignment",
+      "target": "assignment.html",
+      "source": "assignment.md",
+      "label": "Assignment"
+    },
+    {
+      "item": "references",
+      "target": "references.html",
+      "source": "references.md",
+      "label": "References"
+    },
+    { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
+  ],
+  "exp_name": "Vibration Control",
+  "exp_short_name": "vibration-control"
+}
