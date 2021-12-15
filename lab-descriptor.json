@@ -21,35 +21,35 @@
       "name": "Free Vibration of S.D.O.F System",
       "short-name": "free-vibration",
       "repo": "https://github.com/virtual-labs/exp-free-vibration-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Forced Vibration of S.D.O.F System",
       "short-name": "forced-vibration",
       "repo": "https://github.com/virtual-labs/exp-forced-vibration-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Impulse Response of S.D.O.F System",
       "short-name": "impulse-response",
       "repo": "https://github.com/virtual-labs/exp-impulse-response-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Concept of Response Spectrum",
       "short-name": "response-spectrum",
       "repo": "https://github.com/virtual-labs/exp-response-spectrum-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Vibration of M.D.O.F System",
       "short-name": "vibration-of-mdof",
       "repo": "https://github.com/virtual-labs/exp-vibration-of-mdof-iiith",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
@@ -63,7 +63,7 @@
       "name": "Torsional Response of Building",
       "short-name": "torsional-respons",
       "repo": "https://github.com/virtual-labs/exp-torsional-response-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
@@ -90,7 +90,7 @@
     "description": "This virtual lab on Structural Dynamics is to be used as a supplement to a parallel course on the same topic. It is not designed to be a complete course/tutorial by itself where a student can learn Structural Dynamics just by going through the designed experiments.",
     "universities": ["Universities with Civil Engineering"]
   },
-  "version": "v0.5.0",
+  "version": "v0.6.0",
   "production": true,
   "current_item": {
     "item": "feedback",
