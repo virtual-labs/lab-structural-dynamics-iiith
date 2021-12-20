@@ -90,7 +90,7 @@
     "description": "This virtual lab on Structural Dynamics is to be used as a supplement to a parallel course on the same topic. It is not designed to be a complete course/tutorial by itself where a student can learn Structural Dynamics just by going through the designed experiments.",
     "universities": ["Universities with Civil Engineering"]
   },
-  "version": "v0.7.0",
+  "version": "v0.8.0",
   "production": true,
   "current_item": {
     "item": "feedback",
